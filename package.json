@@ -1,0 +1,16 @@
+{
+  "name": "upfile",
+  "version": "1.0.0",
+  "description": "Proyecto #5 - Certificación de FreeCodeCamp. Manejo de archivos.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "FreeCodeCamp"
+  ],
+  "author": ["Duvan RoBra", "FreeCodeCamp"],
+  "license": "ISC"
+}
